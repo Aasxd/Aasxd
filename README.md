@@ -1,4 +1,4 @@
-# Helloooooo, I'm Mohammed Asad Khan
+# Hey, Glad you're here. Feel free to explore!
 
 **Data Scientist & Analyst · MSc Data Science, Liverpool John Moores University**
 
