@@ -19,7 +19,7 @@ I turn raw data into clear business decisions, from SQL and data cleaning to big
 
 ## 🎓 MSc Dissertation
 
-### 📰 [Financial News Summarisation with RAG](https://github.com/Aasxd/Final-Thesis-RAG-Summarization-)
+### 📰 [Financial News Summarisation with RAG](https://github.com/Aasxd/Financial-News-RAG)
 
 A retrieval-augmented generation pipeline over a 64K-chunk financial corpus, built with open-weight models on a laptop GPU. Compared with the same LLM without retrieval, it **cut unsupported causal claims by 82%** and **eliminated numerical fabrication**.
 
@@ -33,7 +33,7 @@ A retrieval-augmented generation pipeline over a 64K-chunk financial corpus, bui
 |---|---|---|
 | 🛒 **[Olist Retail Analytics](https://github.com/Aasxd/olist-retail-analytics)** · *Capstone* | Pareto and market basket analysis of ~96K e-commerce orders to guide inventory and cross-selling. Includes Tableau dashboards and a [video presentation](https://youtu.be/hVnlkLF2mIQ). | Python · Tableau |
 | 🍳 **[Recipe Ratings with PySpark](https://github.com/Aasxd/recipe-rating-pyspark)** | Big-data pipeline on AWS EMR processing 1.1M+ reviews of 230K recipes into a 148-feature dataset for a recommender. | PySpark · AWS EMR · S3 |
-| 🎯 **[Lead Scoring Model](https://github.com/Aasxd/Lead_Conversion)** | Logistic regression scoring 9K sales leads by conversion likelihood: 85% accuracy, 0.93 ROC AUC. | Python · scikit-learn |
+| 🎯 **[Lead Scoring Model](https://github.com/Aasxd/Lead-Scoring-Model)** | Logistic regression scoring 9K sales leads by conversion likelihood: 85% accuracy, 0.93 ROC AUC. | Python · scikit-learn |
 | 🏙️ **[Airbnb NYC Insights](https://github.com/Aasxd/airbnb-nyc-analysis)** | Pricing, neighbourhood and review analysis of 49K listings, presented to both technical and executive audiences. | Python · Power BI |
 | 🎬 **[IMDb Movie Analysis](https://github.com/Aasxd/imdb-sql-analysis)** | 29 business questions answered in SQL to guide a production company's next global release. | MySQL |
 | 💳 **[Credit EDA](https://github.com/Aasxd/credit-eda)** | Cleaning, merging and exploring 1.4M+ loan records to understand applicants and loan outcomes. | Python · pandas · seaborn |
